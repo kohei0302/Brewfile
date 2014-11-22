@@ -25,6 +25,7 @@ cask install iterm2
 cask install kobito
 cask install mou
 cask install mysqlworkbench
+cask install phpstorm
 cask install picasa
 cask install skitch
 cask install skype
