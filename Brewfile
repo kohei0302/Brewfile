@@ -19,11 +19,11 @@ cask install google-chrome
 cask install google-drive
 cask install google-japanese-ime
 cask install hipchat
-cask install hyperswitch
 cask install intel-xdk
 cask install iterm2
 cask install kobito
 cask install mou
+cask install mplayerx
 cask install mysqlworkbench
 cask install phpstorm
 cask install picasa
@@ -123,12 +123,10 @@ appstore iPhoto
 appstore Keynote
 appstore LINE
 appstore Microsoft Remote Desktop
-appstore MPlayerX
 appstore Numbers
 appstore Pages
 appstore Pixelmator
 appstore Pocket
 appstore SoraAnnai
-appstore The Unarchiver
 appstore TweetDeck
 appstore Xcode
