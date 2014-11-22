@@ -18,6 +18,7 @@ cask install firefox
 cask install google-chrome
 cask install google-drive
 cask install google-japanese-ime
+cask install google-plus-auto-backup
 cask install hipchat
 cask install intel-xdk
 cask install iterm2
