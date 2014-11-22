@@ -110,11 +110,6 @@ install wget
 install xz
 install zsh
 
-# Below applications were installed by Cask,
-but not corresponding casks were found.
-
-#cask  install google-auto-backup (!)
-
 # App Store applications
 appstore aText
 appstore Disk Diag
@@ -135,3 +130,6 @@ appstore SoraAnnai
 appstore The Unarchiver
 appstore TweetDeck
 appstore Xcode
+
+# Other commands
+but not corresponding casks were found.
