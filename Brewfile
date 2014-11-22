@@ -32,6 +32,7 @@ cask install skype
 cask install slack
 cask install sourcetree
 cask install sublime-text
+cask install the-unarchiver
 cask install vagrant
 cask install virtualbox
 cask install vlc
