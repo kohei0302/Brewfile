@@ -130,6 +130,3 @@ appstore SoraAnnai
 appstore The Unarchiver
 appstore TweetDeck
 appstore Xcode
-
-# Other commands
-but not corresponding casks were found.
