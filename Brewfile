@@ -39,6 +39,10 @@ cask install virtualbox
 cask install vlc
 cask install xtrafinder
 
+## caskroom/versions
+tap caskroom/versions
+cask install java7
+
 ## homebrew/apache
 tap homebrew/apache
 install apr-util
