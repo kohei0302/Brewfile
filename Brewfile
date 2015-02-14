@@ -6,7 +6,6 @@ tap caskroom/cask
 install brew-cask
 cask install alfred
 cask install android-file-transfer
-cask install arduino-galileo
 cask install atom
 cask install blu-ray-player
 cask install dash
@@ -45,8 +44,6 @@ cask install java7
 
 ## homebrew/apache
 tap homebrew/apache
-install apr-util
-install apr
 install httpd22
 
 ## homebrew/binary
@@ -58,6 +55,10 @@ install zlib
 
 ## homebrew/versions
 tap homebrew/versions
+
+## jlhonora/lsusb
+tap jlhonora/lsusb
+install lsusb
 
 ## josegonzalez/php
 tap josegonzalez/php
@@ -73,11 +74,15 @@ install brew-file
 tap sanemat/font
 
 # Other Homebrew packages
+install apr
+install apr-util
 install autoconf
 install automake
 install boot2docker
+install coreutils
 install ctags
 install curl
+install dfu-util
 install docker
 install dos2unix
 install fontconfig
@@ -86,6 +91,7 @@ install gdbm
 install gettext
 install git
 install glib
+install gnu-getopt
 install heroku-toolbelt
 install icu4c
 install jpeg
@@ -94,6 +100,7 @@ install libffi
 install libpng
 install libtiff
 install libtool
+install libusb
 install libyaml
 install mcrypt
 install mhash
@@ -117,10 +124,17 @@ install wget
 install xz
 install zsh
 
+# Below applications were installed by Cask,
+# but don't not have corresponding casks.
+
+#cask  install arduino-galileo (!)
+
 # App Store applications
 appstore aText
+appstore CSR Racing
 appstore Disk Diag
 appstore ForkLift
+appstore Full Deck Solitaire
 appstore GarageBand
 appstore Growl
 appstore iMovie
@@ -128,10 +142,13 @@ appstore iPhoto
 appstore Keynote
 appstore LINE
 appstore Microsoft Remote Desktop
+appstore Minesweeper !!
 appstore Numbers
 appstore Pages
 appstore Pixelmator
 appstore Pocket
+appstore Reversu
 appstore SoraAnnai
+appstore Touchgrind BMX
 appstore TweetDeck
 appstore Xcode
