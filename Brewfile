@@ -102,6 +102,7 @@ install libtiff
 install libtool
 install libusb
 install libyaml
+install lynx
 install mcrypt
 install mhash
 install mysql
@@ -125,16 +126,14 @@ install xz
 install zsh
 
 # Below applications were installed by Cask,
-# but don't not have corresponding casks.
+# but do not have corresponding casks.
 
-#cask  install arduino-galileo (!)
+#cask install arduino-galileo (!)
 
 # App Store applications
 appstore aText
-appstore CSR Racing
 appstore Disk Diag
 appstore ForkLift
-appstore Full Deck Solitaire
 appstore GarageBand
 appstore Growl
 appstore iMovie
@@ -142,13 +141,10 @@ appstore iPhoto
 appstore Keynote
 appstore LINE
 appstore Microsoft Remote Desktop
-appstore Minesweeper !!
 appstore Numbers
 appstore Pages
 appstore Pixelmator
 appstore Pocket
-appstore Reversu
 appstore SoraAnnai
-appstore Touchgrind BMX
 appstore TweetDeck
 appstore Xcode
