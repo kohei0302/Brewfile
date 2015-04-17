@@ -113,6 +113,7 @@ install pcre
 install pixman
 install pkg-config
 install rbenv
+install readline
 install redis
 install ruby-build
 install the_silver_searcher
@@ -124,11 +125,6 @@ install vim
 install wget
 install xz
 install zsh
-
-# Below applications were installed by Cask,
-# but do not have corresponding casks.
-
-#cask install arduino-galileo (!)
 
 # App Store applications
 appstore aText
